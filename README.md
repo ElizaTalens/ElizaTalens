@@ -16,7 +16,7 @@
 
 ### Hi there, I'm Eliza Talent Sirait! 👋
 
-> *"Satu tumbuh seribu"* 🌱
+  > *"If you never try, you will never know"* 🌱
 
 I am an Informatics student at Universitas Diponegoro. I have a deep passion for **Data Science**, **Artificial Intelligence (AI)**, and **Full-stack Development**. 
 
